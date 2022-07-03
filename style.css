@@ -13,7 +13,6 @@ text-align: center;
     height: 60px;
     background-color: #EEEEEE;
 }
-
 .box{
     float: left;
     padding: 15px;
@@ -21,31 +20,22 @@ text-align: center;
     font-size: large;
     margin-top: 5px;
     margin-right: 5px;
+    font-size: larger;
+    height: 120px;
 }
 .box1{
     background-color: #7EE5DA;
     width: 35%;
-    height: 100px;
 }
 .box2{
-    background-color: #7EE5DA;
+    background-color: #70CCC2;
     width: 26%;
-    height: 100px;
 }
 .box3{
-    float: left;
     background-color: #62B3AA;
-    text-align: center;
-    font-size: 14px;
     width: 35%;
-    height: 100px;
     margin-right: 0;
 }
-
-
-
-
-
 .foot {
     float: left;
     text-align: center;
@@ -53,5 +43,5 @@ text-align: center;
     width: 100%;
     margin-top: 5px;
     padding-top: 12px;
-    font-size: 12px;
+    font-size: large;
 }
